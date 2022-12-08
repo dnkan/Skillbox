@@ -1,0 +1,12 @@
+Index: lessen.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lessen.py b/lessen.py
+new file mode 100644
+--- /dev/null	(date 1666219659074)
++++ b/lessen.py	(date 1666219659074)
+@@ -0,0 +1,1 @@
++print('Hello word')
+\ No newline at end of file
