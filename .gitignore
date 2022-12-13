@@ -1,0 +1,5 @@
+*.log
+README.md
+*.txt
+*.json
+.idea/workspace.xml
