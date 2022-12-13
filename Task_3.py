@@ -28,12 +28,6 @@ def zerodiv() -> None:
     """ It is ZeroDivisionError"""
     x = 1 / 0
 
-
-@logging
-def varname() -> None:
-    """ It is NameError"""
-    x = y
-
 @logging
 def correctly() -> Any:
     """ It is correctly!"""
